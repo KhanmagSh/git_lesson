@@ -18,4 +18,4 @@
 
 Юлия
 
-Solo - greeting
+Solo - greeting + name
